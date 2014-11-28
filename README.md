@@ -2,6 +2,8 @@
 
 An experimental star viewer that allows you to step through the galactic starfield in a hyper abstract view. Information about stars is aggregated and encoded into the placement and color of the grid. Moving in 3 dimensions and viewing in 2 dimensions allows you to maintain an objective macro view so you can take the all that pixel glory in!
 
+Demo from Hack the Universe presentation: http://youtu.be/FcbuDtVyzdA?list=UUIuhq9LTleLC-GMdAOvvZcg
+
 ## Usage
 
 ```
